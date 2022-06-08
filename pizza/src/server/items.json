@@ -1,0 +1,80 @@
+{
+  "items": [
+    {
+      "name": "Cheeseburger",
+      "price": 18.3,
+      "quantity": 1,
+      "image": "https://i.ibb.co/YXXnBWx/cheeseburger.png",
+      "id": 1
+    },
+    {
+      "name": "Don Bacon",
+      "price": 24.1,
+      "quantity": 1,
+      "image": "https://i.ibb.co/j60hwXH/Don-Bacon.png",
+      "id": 2
+    },
+    {
+      "name": "Carne",
+      "price": 26.3,
+      "quantity": 1,
+      "image": "https://i.ibb.co/NN1Rf7x/Carne.png",
+      "id": 3
+    },
+    {
+      "name": "Julienne",
+      "price": 12.5,
+      "quantity": 1,
+      "image": "https://i.ibb.co/7YNV8zy/Julienne.png",
+      "id": 4
+    },
+    {
+      "name": "5 Cheese",
+      "price": 14.36,
+      "quantity": 1,
+      "image": "https://i.ibb.co/Xj1v4S5/5-cheese.png",
+      "id": 5
+    },
+    {
+      "name": "Cipollo",
+      "price": 10,
+      "quantity": 1,
+      "image": "https://i.ibb.co/BwSWkWB/cipollo.png",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "name": "sai",
+      "password": "Sai123!@",
+      "cnfPassword": "Sai123!@",
+      "email": "sai@gmail.com",
+      "mobileNumber": "8106788426",
+      "id": 1
+    },
+    {
+      "name": "Ibba",
+      "password": "Ibba1234!@",
+      "cnfPassword": "Ibba1234!@",
+      "email": "ibba@gmail.com",
+      "mobileNumber": "8106788426",
+      "id": 2
+    },
+    {
+      "name": "chiranjeevi",
+      "password": "Sai123!@",
+      "cnfPassword": "Sai123!@",
+      "email": "Sai@gmail",
+      "mobileNumber": "6123455512",
+      "id": 3
+    },
+    {
+      "name": "Ram",
+      "password": "Ram123!@",
+      "cnfPassword": "Ram123!@",
+      "email": "sai@gmail.com",
+      "mobileNumber": "8106788426",
+      "id": 4
+    }
+  ]
+}

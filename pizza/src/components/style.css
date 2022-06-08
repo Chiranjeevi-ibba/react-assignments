@@ -1,0 +1,19 @@
+.home-container {
+    background-color: aliceblue;
+}
+.welcome-text {
+    font-size: 20px;
+}
+.we-are-text {
+    font-size: 20px;
+    font-weight: bold;
+}
+.cart-count {
+    font-size: 14px;
+    padding: 1px 5px;
+    border-radius: 2px;
+}
+.order-success-para-text {
+    background-color: rgb(179, 193, 179);
+    border-radius: 5px;
+}
