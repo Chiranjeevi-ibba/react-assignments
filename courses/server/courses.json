@@ -1,0 +1,52 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "imgUrl": "https://i.ibb.co/nRTcN7J/Html.png",
+      "title": "HTML"
+    },
+    {
+      "id": 2,
+      "imgUrl": "https://i.ibb.co/Z23JbZt/css.png",
+      "title": "CSS"
+    },
+    {
+      "id": 3,
+      "imgUrl": "https://i.ibb.co/6Zvcwf5/js.png",
+      "title": "JavaScript"
+    },
+    {
+      "id": 4,
+      "imgUrl": "https://res.cloudinary.com/practicaldev/image/fetch/s--4NgwRtzZ--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qolw97mcrr9x93wi0tvx.png",
+      "title": "React JS"
+    },
+    {
+      "id": 5,
+      "imgUrl": "http://www.itedge.in/images/blog/angularjs.png",
+      "title": "Angular JS"
+    },
+    {
+      "id": 6,
+      "imgUrl": "https://www.biteinteractive.com/wp-content/uploads/2021/05/git-vs-github.png",
+      "title": "Git/Github"
+    }
+  ],
+  "users": [
+    {
+      "name": "sai",
+      "email": "sai@gmail.com",
+      "course": "React JS",
+      "mobileNumber": "8106788426",
+      "query": "About MERN",
+      "id": 1
+    },
+    {
+      "name": "chiru",
+      "email": "chiranjeeviibba@gmail.com",
+      "course": "React JS",
+      "mobileNumber": "8106788426",
+      "query": "About React Js",
+      "id": 2
+    }
+  ]
+}
